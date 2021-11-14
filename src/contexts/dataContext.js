@@ -2,9 +2,6 @@ import {createContext, useContext, useState} from "react"
 
 
 const CityContext = createContext();
-// const API_KEY = "fae7c3f1050db7d484602d10705634f9"
-
-
 
 export const CityContextProvider = ({children}) => {
 

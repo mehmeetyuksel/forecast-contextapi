@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# 7-Day Forecast
+
+In this project; ContextAPI, ChakraUI, OpenWeatherMap API were used.  
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
